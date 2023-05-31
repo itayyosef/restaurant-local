@@ -2,7 +2,7 @@ Itay Yosef
 
 --- המלצת השף : האתר נראה הכי טוב בין 70% ל 100% מרוחב המסך ---
 
-GITHUB link - https://github.com/itayyosef/Project-restaurant.git
+GITHUB link - https://github.com/itayyosef/restaurant-local.git
 
 הסבר על המשימה :
 
